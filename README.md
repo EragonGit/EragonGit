@@ -1,8 +1,17 @@
+   - 👋 Ciao, SOno @EragonGit
+- 👀 Mi occupo di Web Development...
+- 🌱 Mi sto preparando come owner di servizi ...
+- 📫 Puoi contattarmi tramite Email. mattiacapassoweb@gmail.com
+
+Questo repository è dedicato all'archivio dei miei lavori di programmazione
 
 
 
+
+
+
+<br><br><br><br><br><br><br>
 <html>
-  <head>
 <!-- Google tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-240862263-1">
 </script>
@@ -13,13 +22,4 @@
 
   gtag('config', 'UA-240862263-1');
 </script>
-  </head>
- <body>
-   - 👋 Ciao, SOno @EragonGit
-- 👀 Mi occupo di Web Development...
-- 🌱 Mi sto preparando come owner di servizi ...
-- 📫 Puoi contattarmi tramite Email. mattiacapassoweb@gmail.com
-
-Questo repository è dedicato all'archivio dei miei lavori di programmazione
-  </body>
 </html>
